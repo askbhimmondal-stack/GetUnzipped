@@ -389,9 +389,9 @@
     <div class="tip">
       <i class="fas fa-lightbulb"></i> Tip: Use "Save to Folder" to write files directly into a chosen folder (Chromium browsers only).
     </div>
-
-
-
+<footer class="footer">
+      Made with <span class="heart">❤</span> for Pooja
+    </footer>
 
     
   </div>
